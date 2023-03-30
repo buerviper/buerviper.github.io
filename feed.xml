@@ -1,444 +1,217 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://alshedivat.github.io/al-folio/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alshedivat.github.io/al-folio/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-03-30T10:01:13+00:00</updated><id>https://alshedivat.github.io/al-folio/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">a post with giscus comments</title><link href="https://alshedivat.github.io/al-folio/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments" /><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2022/giscus-comments</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://alshedivat.github.io/al-folio/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">a post with redirect</title><link href="https://alshedivat.github.io/al-folio/blog/2022/redirect/" rel="alternate" type="text/html" title="a post with redirect" /><published>2022-02-01T17:39:00+00:00</published><updated>2022-02-01T17:39:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2022/redirect</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2022/redirect/"><![CDATA[<p>Redirecting to another page.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[you can also redirect to assets like pdf]]></summary></entry><entry><title type="html">a post with diagrams</title><link href="https://alshedivat.github.io/al-folio/blog/2021/diagrams/" rel="alternate" type="text/html" title="a post with diagrams" /><published>2021-07-04T17:39:00+00:00</published><updated>2021-07-04T17:39:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2021/diagrams</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2021/diagrams/"><![CDATA[<p>This theme supports generating various diagrams from a text description using <a href="https://github.com/zhustec/jekyll-diagrams" target="\_blank">jekyll-diagrams</a> plugin.
-Below, we generate a few examples of such diagrams using languages such as <a href="https://mermaid-js.github.io/mermaid/" target="\_blank">mermaid</a>, <a href="https://plantuml.com/" target="\_blank">plantuml</a>, <a href="https://vega.github.io/vega-lite/" target="\_blank">vega-lite</a>, etc.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://buerviper.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://buerviper.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-03-30T10:34:11+00:00</updated><id>https://buerviper.github.io/feed.xml</id><title type="html">Mathias Micheel | Researcher</title><subtitle>Here, I will collect some random thoughts and share my experience(s) which I gathered during my career.
+</subtitle><entry><title type="html">Fight, Magic, Items by Aidan Moher</title><link href="https://buerviper.github.io/blog/2023/fight-magic-items/" rel="alternate" type="text/html" title="Fight, Magic, Items by Aidan Moher" /><published>2023-03-28T00:00:00+00:00</published><updated>2023-03-28T00:00:00+00:00</updated><id>https://buerviper.github.io/blog/2023/fight-magic-items</id><content type="html" xml:base="https://buerviper.github.io/blog/2023/fight-magic-items/"><![CDATA[<p>2023, what a great time to be alive for JRPG fans! Not only is it possible to play all the titles from the good old time, either legally through remasters or remakes or via emulation, but we also get tons of new titles, from adventurous indie developers paying homage to big studios like who experiment with old formulas for a breath of fresh air or simply deliver nothing but pure oldschool nostalgia in its finest pixel form.</p>
 
-<p><strong>Note:</strong> different diagram-generation packages require external dependencies to be installed on your machine.
-Also, be mindful of that because of diagram generation the fist time you build your Jekyll website after adding new diagrams will be SLOW.
-For any other details, please refer to <a href="https://github.com/zhustec/jekyll-diagrams" target="\_blank">jekyll-diagrams</a> README.</p>
+<p>But even if you get tired of actually playing the games themselves, there is now an increasing corpus of books which will keep you entertained even with your console turned off. While a couple of years back, your only option to read about JRPGS were few chapters in books about the Japanese game industry (like Chris Kohler’s excellent <em>Power Up</em>) or role-playing games in general (see Matt barton’s <em>Dungeons and Desktops</em> or Felipe Pepe’s <em>The CRPG Book: A Guide to Computer Role-Playing Games</em>), we now see books published which exclusively focus on our favorite, quirky genre. While the gold standard is (and will be for a foreseeable time) <em>A Guide to Japanese Role-Playing Games</em>, printed on over 600 pages in 2021, I was looking forward to <em>Fight, Magic, Items</em> by Aidan Moher a lot. Where the nearly biblical <em>Guide</em> is an extensive, meticulous description of basically the entire genre and its games, Moher’s book promised a more personal look on the genre and its games. Unfortunately, the book left a sour taste after finishing, and it makes too many mistakes on too many levels that I cannot recommend it.</p>
 
-<h2 id="mermaid">Mermaid</h2>
+<h2 id="structure-and-content">Structure and content</h2>
 
-<p>Install mermaid using <code class="language-plaintext highlighter-rouge">node.js</code> package manager <code class="language-plaintext highlighter-rouge">npm</code> by running the following command:</p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm <span class="nb">install</span> <span class="nt">-g</span> mermaid.cli
-</code></pre></div></div>
+<p>Moher gives an overview of the JRPG genre on 320 pages, starting from its Western roots (<em>Ultima</em> and <em>Wizardry</em>) until mid-2021. The book is divided into chapters, most of which deal with one single game or several games released in the same time span or from the same series. Several chapters (5 - 8) are grouped together and give the book its final structure. This superstructure is mainly derived from the console cycles in a chronological order, which means that the first group only deals with NES or Master System games, the second chapter with SNES and Mega Drive (Genesis), and so on. This strict structuring is weakened a bit towards the end, when console cycles have less of an influence on the games’ presentation and development.</p>
 
-<p>The diagram below was generated by the following code:</p>
+<p>I have several problems with this approach. First, strictly grouping games based on their console does not work for JRPGs. The strict chronological approach yields a first group (<em>8-bit Beginnings</em>) which covers a time span until c. 1990, the release of <em>Dragon Quest IV</em>. The next chapter on 16-bit-era games then starts with Final <em>Fantasy IV</em> (1991), goes on to <em>Final Fantasy VI</em> (1994), just to then go back to <em>Phantasy Star II</em> - a game released in 1989. I found this going-back-and-forth irritating while reading, and there are several instances in the book where after a strict chronological ordering, you may find some heavy breaks in the flow. I think this originates in the technical grouping of games by console generation and not by what the games actually bring to the table.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% mermaid %}
-sequenceDiagram
-    participant John
-    participant Alice
-    Alice-&gt;&gt;John: Hello John, how are you?
-    John--&gt;&gt;Alice: Great!
-{% endmermaid %}
-</code></pre></div></div>
+<p>Another issue with the boom is the unsteady pacing of chapters, as their length varies greatly throughout the book: while early chapters are easily over 10 or even 15 pages long, chapters near the end of the book are significantly shorter. For instance, the initial chapter on <em>Final Fantasy</em> amounts to 17 pages, Yoko Taro is dealt with on only 6 pages. This also reflects on the chapter groups: the first two chapters were pretty long and in-depth (57 and 52 pages, respectively) and are nearly as long as the last three chapters <em>combined</em> (115 pages total). This is in contrast to the actual time span dealt with, which is 10 years for the first two chapters against over 20 for the last three. It feels as if Moher has nothing substantial to say about the new games, despite the fact that one would expect them, because of their increased length and depth compared to earlier titles, to actually say <em>more</em>. I understand this to be a result of Moher trying to tell a more personal history (<em>his</em> history with JRPGs), which probably is more deeply rooted in his youth with a good mix of nostalgia, but it still feels lackluster to read. In particular, because later chapters also tend to be less personal in terms of personal history.</p>
 
-<div class="jekyll-diagrams diagrams mermaid">
-  <svg id="mermaid-1680170484572" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1680170484572 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1680170484572 .node circle,#mermaid-1680170484572 .node ellipse,#mermaid-1680170484572 .node polygon,#mermaid-1680170484572 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1680170484572 .node.clickable{cursor:pointer}#mermaid-1680170484572 .arrowheadPath{fill:#333}#mermaid-1680170484572 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1680170484572 .edgeLabel{background-color:#e8e8e8}#mermaid-1680170484572 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1680170484572 .cluster text{fill:#333}#mermaid-1680170484572 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1680170484572 .actor{stroke:#ccf;fill:#ececff}#mermaid-1680170484572 text.actor{fill:#000;stroke:none}#mermaid-1680170484572 .actor-line{stroke:grey}#mermaid-1680170484572 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1680170484572 .messageLine0,#mermaid-1680170484572 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1680170484572 #arrowhead{fill:#333}#mermaid-1680170484572 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1680170484572 .messageText{fill:#333;stroke:none}#mermaid-1680170484572 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1680170484572 .labelText,#mermaid-1680170484572 .loopText{fill:#000;stroke:none}#mermaid-1680170484572 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1680170484572 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1680170484572 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1680170484572 .section{stroke:none;opacity:.2}#mermaid-1680170484572 .section0{fill:rgba(102,102,255,.49)}#mermaid-1680170484572 .section2{fill:#fff400}#mermaid-1680170484572 .section1,#mermaid-1680170484572 .section3{fill:#fff;opacity:.2}#mermaid-1680170484572 .sectionTitle0,#mermaid-1680170484572 .sectionTitle1,#mermaid-1680170484572 .sectionTitle2,#mermaid-1680170484572 .sectionTitle3{fill:#333}#mermaid-1680170484572 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1680170484572 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1680170484572 .grid path{stroke-width:0}#mermaid-1680170484572 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1680170484572 .task{stroke-width:2}#mermaid-1680170484572 .taskText{text-anchor:middle;font-size:11px}#mermaid-1680170484572 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1680170484572 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1680170484572 .taskText0,#mermaid-1680170484572 .taskText1,#mermaid-1680170484572 .taskText2,#mermaid-1680170484572 .taskText3{fill:#fff}#mermaid-1680170484572 .task0,#mermaid-1680170484572 .task1,#mermaid-1680170484572 .task2,#mermaid-1680170484572 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1680170484572 .taskTextOutside0,#mermaid-1680170484572 .taskTextOutside1,#mermaid-1680170484572 .taskTextOutside2,#mermaid-1680170484572 .taskTextOutside3{fill:#000}#mermaid-1680170484572 .active0,#mermaid-1680170484572 .active1,#mermaid-1680170484572 .active2,#mermaid-1680170484572 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1680170484572 .activeText0,#mermaid-1680170484572 .activeText1,#mermaid-1680170484572 .activeText2,#mermaid-1680170484572 .activeText3{fill:#000!important}#mermaid-1680170484572 .done0,#mermaid-1680170484572 .done1,#mermaid-1680170484572 .done2,#mermaid-1680170484572 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1680170484572 .doneText0,#mermaid-1680170484572 .doneText1,#mermaid-1680170484572 .doneText2,#mermaid-1680170484572 .doneText3{fill:#000!important}#mermaid-1680170484572 .crit0,#mermaid-1680170484572 .crit1,#mermaid-1680170484572 .crit2,#mermaid-1680170484572 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1680170484572 .activeCrit0,#mermaid-1680170484572 .activeCrit1,#mermaid-1680170484572 .activeCrit2,#mermaid-1680170484572 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1680170484572 .doneCrit0,#mermaid-1680170484572 .doneCrit1,#mermaid-1680170484572 .doneCrit2,#mermaid-1680170484572 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1680170484572 .activeCritText0,#mermaid-1680170484572 .activeCritText1,#mermaid-1680170484572 .activeCritText2,#mermaid-1680170484572 .activeCritText3,#mermaid-1680170484572 .doneCritText0,#mermaid-1680170484572 .doneCritText1,#mermaid-1680170484572 .doneCritText2,#mermaid-1680170484572 .doneCritText3{fill:#000!important}#mermaid-1680170484572 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1680170484572 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1680170484572 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1680170484572 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1680170484572 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1680170484572 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1680170484572 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1680170484572 #compositionEnd,#mermaid-1680170484572 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1680170484572 #aggregationEnd,#mermaid-1680170484572 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1680170484572 #dependencyEnd,#mermaid-1680170484572 #dependencyStart,#mermaid-1680170484572 #extensionEnd,#mermaid-1680170484572 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1680170484572 .branch-label,#mermaid-1680170484572 .commit-id,#mermaid-1680170484572 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1680170484572 {
-    color: rgb(0, 0, 0);
-    font: normal normal 400 normal 16px / normal "Times New Roman";
-  }</style><g></g><g><line id="actor0" x1="75" y1="5" x2="75" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><line id="actor1" x1="275" y1="5" x2="275" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="200" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g><defs><marker id="arrowhead" refX="5" refY="2" markerWidth="6" markerHeight="4" orient="auto"><path d="M 0,0 V 4 L6,2 Z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><g><text x="175" y="93" class="messageText" style="text-anchor: middle;">Hello John, how are you?</text><line x1="275" y1="100" x2="75" y2="100" class="messageLine0" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="fill: none;"></line></g><g><text x="175" y="128" class="messageText" style="text-anchor: middle;">Great!</text><line x1="75" y1="135" x2="275" y2="135" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line></g><g><rect x="0" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><rect x="200" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g></svg>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[an example of a blog post with diagrams]]></summary></entry><entry><title type="html">a distill-style blog post</title><link href="https://alshedivat.github.io/al-folio/blog/2021/distill/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2021-05-22T00:00:00+00:00</published><updated>2021-05-22T00:00:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2021/distill</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2021/distill/"><![CDATA[<h2 id="equations">Equations</h2>
+<p>Add to this that the choice of games Moher’s included is very one-sided. Again, this might be a result of his personal history (he can’t write about games he hasn’t played himself), but still, games which are not released by Square or Enix (or Square Enix) are given only very little room. In numbers: 123 pages (just a rough estimate) of the book deal with games released by Square, Enix, or Square Enix - more than 40 % of the book. Add to this roughly 15 pages about Sakaguchi Hinobu. Of course, these games and creators are important to the genre, but it feels extremely one-sided and often more like a personal history with the <em>Final Fantasy</em> and <em>Dragon Quest</em> series. On the other hand, games or series which are considered milestones (such as <em>Persona 4</em>) are only dealt with in passing. This focus on the JRPG flagships overemphasizes their role as key media of the past years, which they most certainly are not. Other more niche titles have shown much more interesting and diverse approaches to the medium and genre than these big titles are capable of by now.</p>
 
-<p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine.
-You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>.
-If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
+<p>This is particularly true for the outlook of the book, which includes a chapter on (Western) Indie-RPG developers who were inspired by JRPGs. For some odd reason, Moher decided to use unpublished games as examples, including some which haven’t even been published <em>now</em>, or the <em>Eiyuden Chronicle</em> Kickstarter, instead of already published and critically accplaimed titles such as <em>Cosmic Star Heroine</em> (2017) or <em>CrossCode</em> (2018). most surprising to me, the game does not even mention (not even in the Earthbound chapters) <em>Undertale</em>, probably the most iconic and innovative Indie-RPGs out there. These omissions in favor of unreleased titles feels like a huge slipover to me.</p>
 
-<p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge">$$</code> and place it as a separate paragraph.
-Here is an example:</p>
+<p>Throughout the book, Moher adds text boxes which deal with a single game (often <em>pars pro toto</em> for an entire series) which he mentions in the text, but for some reason did not elaborate on. The choice of these games is erratic. Even though he talks about <em>Suikoden</em>, there is a text box much later in the book about <em>Suikoden V</em> - which he mentions is a return to form “after a disappointing fourth entry”, a game, which is not mentioned anywhere in the book. The only mention of the <em>Tales of</em> series - arguably the most important JRPG series of the past 20 years and one of the few series which survived the transition to the PS3 era - is also only discussed in a single box about <em>Tales of Destiny</em>, an eccentric choice considering it has never been released in Europe and never seen a re-release, compared to the inaugural <em>Tales of Phantasia</em> or more popular titles such as <em>Tales of Symphonia</em>. Often, these boxes feel like trivia or namedropping, without adding anything substantial to the chapter or text. Moher acknowledges the choice of games in the epilogue of the book. It feels like a weak excuse when he claims that the book is already full with a diverse cast of games when some of them only get a short paragraph at most.</p>
 
-\[\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)\]
+<p>One aspect that I cannot let slip is the factual accuracy of the book, which is not consistent. Often, Moher will write about games and include a bit of trivia which is not always correct. For instance, for <em>Suikoden V</em>, he writes that the game began as a spin-off title. This is, however, wrong and just copy &amp; pasted from Wikipedia without external fact checking. I don’t think these minor mistakes really diminish the quality of the book, but it is the chapter about the Square and Enix unification following the <em>Final Fantasy</em> movie <em>The Spirits Within</em> which really disappointed me. The game was a major box office flop and put a lot of financial stress on Square. Moher paints it now as if the only way out of this financial mess was a merger with Enix. However, the opposite is true: the merger between Enix and Square has long been discussed, and the financial failure of the movie actually <em>delayed</em> it, not promoted it. Moher then goes on how he “remains skeptical […] that Square had recovered from <em>The Spirits Within</em> failure in just two years”, and instead of explaining his skepticism, he goes on to write about <em>Kingdom Hearts</em>, one of the most successful JRPG franchises ever, in the next chapter, or <em>Final Fantasy X</em> in the preceding one, without connecting the dots <em>how</em> Square’s finances might have turned out better again.</p>
 
-<p>Note that MathJax 3 is <a href="https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html">a major re-write of MathJax</a> that brought a significant improvement to the loading and rendering speed, which is now <a href="http://www.intmath.com/cg5/katex-mathjax-comparison.php">on par with KaTeX</a>.</p>
+<h2 id="style">Style</h2>
 
-<hr />
+<p>While Moher misses on some important games and overemphasizes the role of other games, in the end, it is his personal view and the choice of games is not necessarily wrong. If you asked 100 JRPG fans for what they consider the best or most important JRPGs ever, their and Moher’s lists would agree to well over 90 %. So my main problem with the book does not necessarily lie in its content - but in its style of writing.</p>
 
-<h2 id="citations">Citations</h2>
+<p>Moher has a peculiar style which he follows throughout the book. In general, it goes like this: he opens a chapter with a personal anecdote of a game, then goes on to describe it. This is often followed by interview bits, either with the developers or some game journalists. These bits are very clumsily implemented, because a) they are quoted verbatim, b) followed by who is quoted, and c) where or when (sometimes both) the quote is taken from. So a typical bit from the book looks like this:</p>
 
-<p>Citations are then used in the article body with the <code class="language-plaintext highlighter-rouge">&lt;d-cite&gt;</code> tag.
-The key attribute is a reference to the id provided in the bibliography.
-The key attribute can take multiple ids, separated by commas.</p>
+<blockquote>
+  <p>Games like <em>World of Warcraft had emphasized accessibility for a few years, helping the MMORPG break into mainstream popularity after its release, but narrative was often an afterthought of the genre. “</em>Final Fantasy XIV* might not be around today if not for Naoki Yoshida,” said Joseph C. Lin in a <em>Time Magazine</em> piece called “Meet the Guy Who Saved <em>Final Fantasy XIV</em> from Total Desaster.”</p>
+</blockquote>
 
-<p>The citation is presented inline like this: <d-cite key="gregor2015draw"></d-cite> (a number that displays more information on hover).
-If you have an appendix, a bibliography is automatically created and populated in it.</p>
+<p>This is very tiring to read, especially when multiple sources are following each other. I guess this is Moher’s attempt to include sources, but it reads more like a Highschool essay because of this. In the chapter on <em>Final Fantasy VII</em>, half a page consists of direct citations from the <em>Oral History</em> of the game.</p>
 
-<p>Distill chose a numerical inline citation style to improve readability of citation dense articles and because many of the benefits of longer citations are obviated by displaying more information on hover.
-However, we consider it good style to mention author last names if you discuss something at length and it fits into the flow well — the authors are human and it’s nice for them to have the community associate them with their work.</p>
+<p>In addition to articles as a source, he interviewed some games journalists like Jason Schreier or Jeremy Parish and includes quotes by them as well, similarly clumsily inserted, and to me, this has the opposite effect of what Moher might have intended. I guess these interviews were meant to add some external verification on opinions or broaden the view, but if it is the same two or three journalists over and over again, it conveys the feeling of singular opinions to me. Aren’t there any other journalists Moher could have asked as well? Also, i feel as if this approach directly goes against Moher’s intention when writing the book, which was to tell his personal JRPG story. If I’m interested in Schreier’s take on JRPGs, I’d simply read his articles or tweets.</p>
 
-<hr />
+<p>Furthermore, Moher sporadically uses footnotes throughout the book. These may include some added trivia or explanations of terms, and sometimes just some silly comments or jokes. Both don’t work. Most of the time, the trivia/explanation parts could have been added nicely into the main text, and the comical footnotes are more irritating than funny. More often than not, these footnotes feel like an afterthought which add nothing of substance to the book, but are random facts Moher still wanted to convey.</p>
 
-<h2 id="footnotes">Footnotes</h2>
+<p>Last, I am not a fan of the typesetting. Moher sometimes uses a style where single sentences are used to build suspense towards a punchline.</p>
 
-<p>Just wrap the text you would like to show up in a footnote in a <code class="language-plaintext highlighter-rouge">&lt;d-footnote&gt;</code> tag.
-The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote></p>
+<p>But is it a style which works in favor of the book?</p>
 
-<hr />
+<p>No.</p>
 
-<h2 id="code-blocks">Code Blocks</h2>
+<p>Not at all.</p>
 
-<p>Syntax highlighting is provided within <code class="language-plaintext highlighter-rouge">&lt;d-code&gt;</code> tags.
-An example of inline code snippets: <code class="language-plaintext highlighter-rouge">&lt;d-code language="html"&gt;let x = 10;&lt;/d-code&gt;</code>.
-For larger blocks of code, add a <code class="language-plaintext highlighter-rouge">block</code> attribute:</p>
+<p><em>On the contrary.</em></p>
 
-<d-code block="" language="javascript">
-  var x = 25;
-  function(x) {
-    return x * x;
-  }
-</d-code>
+<p>Fortunately, these examples are rare, but sometimes implemented extremely clumsily. They might include a page break in between lines, which destroys the purpose of the suspense building and just looks weird.</p>
 
-<p><strong>Note:</strong> <code class="language-plaintext highlighter-rouge">&lt;d-code&gt;</code> blocks do not look good in the dark mode.
-You can always use the default code-highlight using the <code class="language-plaintext highlighter-rouge">highlight</code> liquid tag:</p>
+<p>I don’t think Moher is to blame for any of these stylistic thoughts, but there is a distinct lack of editing quality. I don’t think a good editor would have allowed any of these stylistic mishaps to be in the final book. Verbatim quotes? Yes, but only sparingly when there really is the need for one. Footnotes? No, just put it in the text in parantheses or an additional sentence. Typesetting? Either used consistently throughout the book or not at all (I’d prefer the latter). There are also some minor typos (in addition to the factual errors mentioned above), like misspelling Frank Frazetta as <em>Frazetti</em>. The lack of consistent editing made this book really hard for me to finish.</p>
 
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">x</span> <span class="o">=</span> <span class="mi">25</span><span class="p">;</span>
-<span class="kd">function</span><span class="p">(</span><span class="nx">x</span><span class="p">)</span> <span class="p">{</span>
-  <span class="k">return</span> <span class="nx">x</span> <span class="o">*</span> <span class="nx">x</span><span class="p">;</span>
-<span class="p">}</span></code></pre></figure>
+<h2 id="summary">Summary</h2>
 
-<hr />
+<p>What left me puzzled by the end of the book: for whom did Moher write this book? On the one hand, it is a book which covers everything. This means that he rarely goes into depth when talking about games, so that if you are already a JRPG fan, you will most likely have head or read most of the things from the book. It then is a nice quick read which you will quickly forget.</p>
 
-<h2 id="interactive-plots">Interactive Plots</h2>
+<p>If your knowledge about JRPGs amounts to zero, or if you haven’t played most of the titles discussed in the book, you will be lost. Very often, Moher will just give the shortes summary possible for a game and then go on to criticize it (or talk about contemporary criticism), which I don’t think you can follow if you haven’t played the game yourself. This is from the paragraph on <em>Final Fantasy VIII</em>:</p>
 
-<p>You can add interative plots using plotly + iframes :framed_picture:</p>
+<blockquote>
+  <p>Considered something of a black sheep, <em>Final Fantasy VIII</em> surprised a lot of players at the time of its release by bringing on brand-new gameplay systems with a much more complex design than <em>Final Fantasy VII</em>’s popular materia system. […] <em>Final Fantasy VIII</em> featured several interlinked systems, none of which had been seen in the series before. The main goal […] was to see how far they could push the complexity of the combat system. […] Like <em>SaGa Frontier</em> before it, <em>Final Fantasy VIII</em> brought a lot of unusual cards to the table, and […] feverish <em>Final Fantasy VII</em> fans weren’t quite sure what to think. (p. 162 - 163)</p>
+</blockquote>
 
-<div class="l-page">
-  <iframe src="/al-folio/assets/plotly/demo.html" frameborder="0" scrolling="no" height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
-</div>
+<p>If you have not played <em>Final Fantasy VIII</em>, you do not know what changes were implemented, or in what way they differed or complex. You just know there’s a new system and people didn’t like it. This is on top of the fact that the description of <em>Final Fantasy VIII</em> is purely technical, from new possibilities due to the CD format to new gameplay formulas, but there’s no mention of its story or characters.</p>
 
-<p>The plot must be generated separately and saved into an HTML file.
-To generate the plot that you see above, you can use the following code snippet:</p>
+<p>So if you’d ask me whether I’d recommend the book to you, it would probably always be a <em>no, I wouldn’t</em>. If you are a JRPG fan already, this book delivers nothing new to you and more often than not it will upset you by not being 100 % accurate. If you are a newcomer to the genre, I don’t think you will be able to follow all of Moher’s points or understand why he ordered certain chapters the way he did. Also, you probably won’t understand why this genre is so easy to fall in love with, which for me lies at the core of JRPGs.</p>
 
-<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="n">pandas</span> <span class="k">as</span> <span class="n">pd</span>
-<span class="kn">import</span> <span class="n">plotly.express</span> <span class="k">as</span> <span class="n">px</span>
-<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="nf">read_csv</span><span class="p">(</span>
-  <span class="s">'https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv'</span>
-<span class="p">)</span>
-<span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="p">.</span><span class="nf">density_mapbox</span><span class="p">(</span>
-  <span class="n">df</span><span class="p">,</span>
-  <span class="n">lat</span><span class="o">=</span><span class="s">'Latitude'</span><span class="p">,</span>
-  <span class="n">lon</span><span class="o">=</span><span class="s">'Longitude'</span><span class="p">,</span>
-  <span class="n">z</span><span class="o">=</span><span class="s">'Magnitude'</span><span class="p">,</span>
-  <span class="n">radius</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
-  <span class="n">center</span><span class="o">=</span><span class="nf">dict</span><span class="p">(</span><span class="n">lat</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">lon</span><span class="o">=</span><span class="mi">180</span><span class="p">),</span>
-  <span class="n">zoom</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
-  <span class="n">mapbox_style</span><span class="o">=</span><span class="s">"stamen-terrain"</span><span class="p">,</span>
-<span class="p">)</span>
-<span class="n">fig</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span>
-<span class="n">fig</span><span class="p">.</span><span class="nf">write_html</span><span class="p">(</span><span class="s">'assets/plotly/demo.html'</span><span class="p">)</span></code></pre></figure>
+<p>I wish Moher would have written a much more personal book on his experience with the genre instead of trying to write a semi-journalistic, semi-historic book on it. The best chapter of the book probably is the prologue, in which Moher describes his love for the genre and how JRPGs accompanied him throughout life (this prologue is littered with unnecessary footnotes, by the way). These are the stories worth telling. Not how <em>Final Fantasy</em> got its name.</p>
 
-<hr />
+<p><em>Fight, Magic, Items was published by Running Press. You can find more information on the official website: <a href="https://fightmagicitems.rocks">https://fightmagicitems.rocks</a></em></p>]]></content><author><name></name></author><category term="JRPG" /><category term="review" /><summary type="html"><![CDATA[This history of the JRPG genre unfortunately falls short for many reasons.]]></summary></entry><entry><title type="html">The Myth of Cancel Culture in Chemistry (and Science)</title><link href="https://buerviper.github.io/blog/2022/myth-of-cancel-culture/" rel="alternate" type="text/html" title="The Myth of Cancel Culture in Chemistry (and Science)" /><published>2022-02-02T00:00:00+00:00</published><updated>2022-02-02T00:00:00+00:00</updated><id>https://buerviper.github.io/blog/2022/myth-of-cancel-culture</id><content type="html" xml:base="https://buerviper.github.io/blog/2022/myth-of-cancel-culture/"><![CDATA[<p>I actually hoped I’d never have to criticize a <em>Nachrichten aus der Chemie</em> article again, but here we are again.</p>
 
-<h2 id="layouts">Layouts</h2>
+<p>The <a href="https://www.oxfordlearnersdictionaries.com/definition/english/">Oxford Advanced Learner’s Dictionary defines Cancel Culture</a> as</p>
 
-<p>The main text column is referred to as the body.
-It is the assumed layout of any direct descendants of the <code class="language-plaintext highlighter-rouge">d-article</code> element.</p>
+<blockquote>
+  <p>​the practice of excluding somebody from social or professional life by refusing to communicate with them online or in real life, because they have said or done something that other people do not agree with</p>
+</blockquote>
 
-<div class="fake-img l-body">
-  <p>.l-body</p>
-</div>
+<p>which sounds like a really bad thing. Freedom of speech is one of our basic rights and one of the working principles of a democratic, pluralistic society. <em>Cancel Culture</em> essentially is censorship of the masses, aimed at people which express controversial opinions. At least this is the interpretation which I see quite a bit too often and which is in line with <a href="https://onlinelibrary.wiley.com/doi/10.1002/nadc.20224120702">this recent Article</a> from the <em>Nachrichten aus der Chemie</em>, the membership magazine of the German Chemistry Society GDCh.(1) However, the entire essay is misleading, spreads fake facts, and advocates for an unjust, exclusive scientific community. And, to cut it short:<strong><em>Cancel Culture</em> in science is just a myth.</strong></p>
 
-<p>For images you want to display a little larger, try <code class="language-plaintext highlighter-rouge">.l-page</code>:</p>
+<figure>
 
-<div class="fake-img l-page">
-  <p>.l-page</p>
-</div>
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/2022-02-02-myth-of-cancel-culture-newton-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/2022-02-02-myth-of-cancel-culture-newton-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/2022-02-02-myth-of-cancel-culture-newton-1400.webp" />
+    
 
-<p>All of these have an outset variant if you want to poke out from the body text a little bit.
-For instance:</p>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/2022-02-02-myth-of-cancel-culture-newton.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
-<div class="fake-img l-body-outset">
-  <p>.l-body-outset</p>
-</div>
+  </picture>
 
-<div class="fake-img l-page-outset">
-  <p>.l-page-outset</p>
-</div>
+</figure>
 
-<p>Occasionally you’ll want to use the full browser width.
-For this, use <code class="language-plaintext highlighter-rouge">.l-screen</code>.
-You can also inset the element a little from the edge of the browser by using the inset variant.</p>
+<p><em>Don’t worry, Sir Newton won’t be cancelled anytime soon.</em></p>
 
-<div class="fake-img l-screen">
-  <p>.l-screen</p>
-</div>
-<div class="fake-img l-screen-inset">
-  <p>.l-screen-inset</p>
-</div>
+<h2 id="breaking-things-down">Breaking things down</h2>
 
-<p>The final layout is for marginalia, asides, and footnotes.
-It does not interrupt the normal flow of <code class="language-plaintext highlighter-rouge">.l-body</code> sized text except on mobile screen sizes.</p>
+<p>I did not really want to go through the article paragraph by paragraph. It is a common method of the alt-right, climate change deniers, or conspiracy theorists to make up “facts”, which only takes a couple of minutes. However, it takes hours to actually dissect their arguments and show them as what they are: straight up lies and misinformation. But then again, it is worthwhile to dissect the entire thing and see how cleverly the authors try to manipulate the readers.</p>
 
-<div class="fake-img l-gutter">
-  <p>.l-gutter</p>
-</div>
+<p><strong>Misleading structure of argumentation.</strong> This already got me up on my feet. The article begins with a broad history of censorship, and how great thinkers like Socrate, Galilei, or Copernicus were (in today’s words) <em>cancelled</em> by society. Taking some more recent examples, the Third Reich or the Soviet Union censored free speech to the point of executing people. Add to this a picture of George Orwell’s <em>1984</em>, one of the most iconic books about (fictitious) totalitarianism.</p>
 
-<hr />
+<p>What does this introduction now do to the reader? It puts people who are <em>cancelled</em> (read below for some of their examples) on the same level as historical geniuses who helped in shaping our modern view of the world. On the other hand, everybody who <em>tries to cancel them</em> (in their view!) is no better than the totalitarian regimes of the 20th century. So from the very beginning, the article does not even try to pretend that it aims for an open discussion, but categorizes the community in good and bad. I would even go as far as call it historical revisionism, nicely summed up in this quote:</p>
 
-<h2 id="other-typography">Other Typography?</h2>
+<blockquote>
+  <p>The ideologues of Nazi Germany were also obsessed with the political views and identity (understood as racial purity) of scientists. Liberals were jailed and murdered. Jews (or „Aryans“ married to „Jewesses“) were expelled from academia.(1)</p>
+</blockquote>
 
-<p>Emphasis, aka italics, with <em>asterisks</em> (<code class="language-plaintext highlighter-rouge">*asterisks*</code>) or <em>underscores</em> (<code class="language-plaintext highlighter-rouge">_underscores_</code>).</p>
+<p>No, dear authors, Jews were not <em>expelled from academia</em> because of their political views. They were the victim of one of the largest genocides in the history of mankind. If you cannot even get this basic fact right, how can you even try to argue further?</p>
 
-<p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
+<p>[*Note: Several readers have intentionally misinterpreted this paragraph. I am well aware that exclusion of Jews from academic and general social life preceded the Holocaust. However, I needed to stress that the authors’ emphasis is misleading, as they explicitly state that liberals were “murdered”, whereas they summarized the fate of the Jewish community only by their removal from academic positions. I do not know why the authors laid emphasis in this way, as it adds nothing to their line of discussion, and it is unclear what point they were trying to make. Maybe they realized that comparing their perception of Cancel Culture to the Holocaust was crass after all, and these lines remained after editing. In any case, I do not think that it is possible to cherrypick a single way of discrimination against jews without talking about the Holocaust in the end (outside of specific academic discourse).</p>
 
-<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
+<p>I understand that my phrasing here was ambiguous and I apologize. I will leave my original phrasing for transparency here. MM., 2022-02-07*]</p>
 
-<p>Strikethrough uses two tildes. <del>Scratch this.</del></p>
+<p><strong>Selective self-citation.</strong> This is maybe more of a formality, but it is just bad style. The article cites 10 references in total to back up the discussion. However, out of these 10, two articles have been written by (some) of the authors.(2,3) Basically, the same ideas are now laid out across three nearly identical, heavily overlapping articles, and the whole article is close to self-plagiarism.Instead of citing articles by other authors - maybe even those which contradict their own findings! - the authors use arguments they themselves came up already to bolden their argument. For an opinion piece which claims that our freedom of speech and science is at stake, the authors try very little to at least pretend that this was not a one-sided argument.</p>
+
+<p>And don’t get me wrong, an opinion piece definitely does not need to be completely accurate. But it should also not try and cover as <em>facts</em>.</p>
+
+<h2 id="whos-being-cancelled-anyway">Who’s being cancelled anyway?</h2>
+
+<p>While the previous statements were more formalities, we now can take a closer look at how <em>Cancel *Culture</em> might manifest in science (Spoiler: it doesn’t).</p>
+
+<p><strong>There is no Cancel Culture in Chemistry.</strong> This the biggest point actually: the examples the authors give for <em>Cancel Culture</em> are heavily taken out of context and none of the people mentioned have been <em>cancelled</em>. To me, <em>to cancel</em> would mean complete loss of professional and maybe even personal future. But this is not what happened in any of the cases mentioned.</p>
+
+<p>The case of <strong>Tomáš Hudlický</strong> was heavily debated in 2020, when he wrote an article which you could call <em>controversial</em> (read more about it <a href="https://cen.acs.org/research-integrity/ethics/Essay-criticizing-efforts-increase-diversity-in-organic-synthesis-deleted-after-backlash-from-chemists/98/web/2020/06">here</a>). You could call it, however, similarly well <em>misogynistic</em>, or <em>racist</em> when he wrote things such as</p>
+
+<blockquote>
+  <p>The rise and emphasis on hiring practices that suggest or even mandate equality in terms of absolute numbers of people in specific subgroups is counter-productive if it results in discrimination against the most meritorious candidates. [<em>Note: While Angewandte took the article down without further notice, you can still find it on Hudlický’s personal website. I won’t link to the article directly.</em>]</p>
+</blockquote>
+
+<p>Of course, by <em>most meritorious candidate</em>, he means white and male. I don’t want to defend <em>Angewandte</em>’s practice of taking the article down without further notice (which is, contrary to what the authors claim, not an unprecedented act, but happens unfortunately quite often - just read retractionwatch.com), because it actually killed a discussion before it could have taken place. However, the actual question in place is not about: <em>Are Hudlický’s ideas correct?</em>, but rather: <em>How can we shape an inclusive scientific environment for everybody if articles like that are still published?</em></p>
+
+<p>And despite the claim that Hudlický got cancelled he is far from cancelled. While a planned <em>Special issue</em> in the journal <em>Synthesis</em> was apparently cancelled according to his own accord, he still manages to publish in that very same journal in 2021 (4) and at least one paper was dedicated to him (5). The official website of <a href="https://brocku.ca/tomas-hudlicky/">Brock university</a> still has his personal page up. According to <a href="https://scholar.google.com/citations?user=I4kMwnUAAAAJ&amp;hl=en">Google Scholar</a>, his papers were cited 600 times in 2021 - which is the same levels as the years before. How does this equal being <em>cancelled</em>, when he doesn’t face any consequences?</p>
+
+<p><strong>Dorian Abbot</strong> is an American geophysicist. According to the authors, Abbot has been an advocate of “ equal opportunity, fairness, merit-based evaluation, and academic freedom”. In 2020, he was planned to give a lecture at MIT, which got cancelled after students protested against it. The protest followed an <a href="https://www.newsweek.com/diversity-problem-campus-opinion-1618419">article written by Abbot</a> which do not make Abbot seem like an advocate of above mentioned qualities. Instead, he claims that an increase of representation of some groups leads to discrimination against other groups. To paraphrase, increasing representation of women or PoC - both of which are underrepresented in science - is discrimination against <em>white males</em>. The article closes with</p>
+
+<blockquote>
+  <p>Then an ideological regime obsessed with race came to power and drove many of the best scholars outgutting the faculties and leading to sustained decay that German universities never fully recovered from.</p>
+</blockquote>
+
+<p>To make it completely clear: Abbot compares the practice of increasing representation of women and PoC to the Holocaust and the persecution of non-<em>Aryans</em> in the Nazi regime. How is this advocation of academic freedom?</p>
+
+<p>However, Abbot is also far from being cancelled. He actually gave the planned lecture on the very same day his MIT lecture got cancelled. (<a href="https://www.newsweek.com/geophysicist-canceled-mit-honored-award-while-thousands-register-his-lecture-1637820">link</a>) His <a href="https://geosci.uchicago.edu/people/dorian-abbot/">Website at the University of Chicago</a> is still online. According to <a href="https://scholar.google.com/citations?user=UqDnxT0AAAAJ&amp;hl=de">Google Scholar</a>, his citations are actually still growing, reaching 600+ in 2021.</p>
+
+<p>These examples just show one thing: there is no such thing as <em>Cancel Culture</em> in science. Hudlický enjoys the dusk of his career, while Abbot will probably have a long, successful run, and his cancelled lecture does not seem to have any further consequences. On the contrary, he seems to enjoy quite a followship now of advocates of <em>free speech</em> and <em>free science</em>. Compare this to the people both of them advocated against: <a href="https://www.forbes.com/sites/jacquelyncorley/2020/06/27/where-are-the-women-of-color-in-academia">women and PoC still represent minorities in leading academic positions</a>. There are no equal opportunities, no fairness, no academic freedom. Ironically, Hudlický says it best himself, not knowing what his words actually mean:</p>
+
+<blockquote>
+  <p>Each candidate should have an equal opportunity to secure a position, regardless of personal identification/categorization.</p>
+</blockquote>
+
+<p>Chances are, though, if you identify as a white male, you will be preferred. Period.</p>
+
+<p><strong>Straw man argumentation.</strong> We already see that most of the stuff the authors brought up is either misleading or factually untrue. However, the end of the article beats it all with a completely random list of things the authors think are objected to for no reason at all. But let’s think this through from the beginning: Isn’t it a good thing that we constantly challenge ourselves and our perception of the world? Isn’t this true science?</p>
+
+<p>We should openly discuss whether we want to revere a racist like Shockley by repeating his name over and over; or whether we want to use exlusive, racist or ableist, language (<em>master</em> or <em>dummy</em>). By defending such terms to the very end, the authors actually achieve the opposit of what they claim: there is no freedom of science if we can’t rethink the current status quo. Both science and sociecty can only progress if we challenge the ideas of yesterday every day.</p>
+
+<p>Oh, and they make some stuff up about <em>normal pH</em> (what’s a normal pH even?). But nonsense like that is a given at this point of the article.</p>
+
+<p>So what stays after reading the article once you take away all the bad arguments, all the made-up “facts”, all derailing…? Not so much, actually. It is just rambling against progressive ideas, against inclusion, and against equality on the pretense of <em>freedom of science and speech</em>. Blerch.</p>
+
+<h2 id="where-to-go-from-here">Where to go from here</h2>
+
+<p>I was really furious when I read the article. I could not believe that such a badly researched article would actually be published using <em>my</em> membership fees. The <em>Nachrichten aus der Chemie</em> have a weird tendency to publish “controversial” articles. Nobody forces them to print letters to the editor advocating against gender-neutral languag, and <a href="https://buerviper.github.io/blog/2021/vorlage-gdch-mitgliederbefragung/">still they did</a>. Nobody forces them to print pieces that claim man-made climate change was a hoax (and chemically impossible), and still they did.(6)</p>
+
+<p>There are so many problems here so I have no idea on how this can be fixed actually. It is a systemic problem. Articles like that do neither represent myself nor do they actually reflect the current state of the scientific discourse or community. Still, they reflect the opinions of many members of GDCh. I think it would be in the best interest of the organization to tell these members: <em>We do not care about you. If we cannot even agree on the very basics of how to do science, then we have no basis for future cooperation.</em> At least, an article which disguises as an opinion piece and then goes on to spread lies and misinformation should be subject of a fact check by the editorial team. If someone reads the article now without any further context, they might end up believing what was written ther.</p>
+
+<p>I know that this is probably not gonna happen, but how often do active members have to come out, make themselves targetable to attacks from the right? In particular, this is an inter-generation conflict, with conservative views mostly shared by older, retired members, whereas young scientists at an early career stage share more progressive views. However, their professional future often relies on the goodwill of the old members, e.g., in grant review or appointment comittees.</p>
+
+<p>The <em>Nachrichten</em> tries to not alienate these old members, but I’d wish it’d be taking a stronger stance against them. Such insultingly regressive views cannot be arranged with the open community which chemistry so desperately needs. Currently, <a href="https://www.gdch.de/ausbildung-karriere/karriere-und-beruf/hochschulstatistiken/statistik-hochschullehrernachwuchs.html">less than 20 % of Chemistry professors in Germany identify as female</a>. If we don’t manage to create an inclusive, inviting community, this won’t improve at all in the long run. But if even <em>your</em> professional society does not back you up, who’s supposed to do it?</p>
+
+<h2 id="references">References</h2>
 
 <ol>
-  <li>First ordered list item</li>
-  <li>Another item
-⋅⋅* Unordered sub-list.</li>
-  <li>Actual numbers don’t matter, just that it’s a number
-⋅⋅1. Ordered sub-list</li>
-  <li>And another item.</li>
+  <li>Krylov, A. I.; Tanzman, J. S.; Frenking, G.; Gill, P. M. W. Scientists must resist cancel culture. <em>Nachrichten aus der Chemie</em> <strong>2022</strong>, <em>70</em> (2), 12–14. <a href="https://doi.org/10.1002/nadc.20224120702">https://doi.org/10.1002/nadc.20224120702</a>.</li>
+  <li>Krylov, A.; Frenking, G.; Gill, P. Royal Society of Chemistry Provides Guidelines for Censorship to its Editors. <em>Chemistry International</em> <strong>2022</strong>, <em>44</em> (1), 32–34. <a href="https://doi.org/10.1515/ci-2022-0119">https://doi.org/10.1515/ci-2022-0119</a>.</li>
+  <li>Krylov, A. I. The Peril of Politicizing Science. <em>J. Phys. Chem. Lett.</em> <strong>2021</strong>, <em>12</em> (22), 5371–5376. <a href="https://doi.org/10.1021/acs.jpclett.1c01475">https://doi.org/10.1021/acs.jpclett.1c01475</a>.</li>
+  <li>Nardangeli, N.; Thomson, J.; Topolovčan, N.; Hudlický, T. Total Synthesis of Methyl 1,5,8-Trimethoxy-1H-Isochromene-3-Carboxylate and Its Derivatives via Palladium-Catalyzed Annulation of 2-Alkynylbenzaldehydes. Synthesis 2021, 53 (21), 4110–4116. <a href="https://doi.org/10.1055/a-1532-8656">https://doi.org/10.1055/a-1532-8656</a>.</li>
+  <li>Lösle, V.; Kataeva, O.; Knölker, H.-J. First Total Synthesis and Investigation of the X-Ray Crystal Structure of the Pyrano[3,2-a]Carbazole Alkaloid Clausenalansine A. Synthesis 2021, 53 (2), 359–364. <a href="https://doi.org/10.1055/s-0040-1706551">https://doi.org/10.1055/s-0040-1706551</a>.</li>
+  <li>Hug, H. „Die Klimamodelle versagen“. <em>Nachrichten aus der Chemie</em> <strong>2013</strong>, <em>61</em> (2), 132–133. <a href="https://www.degruyter.com/document/doi/10.1515/nachrchem.2013.61.2.132/html">https://www.degruyter.com/document/doi/10.1515/nachrchem.2013.61.2.132/html</a>.</li>
 </ol>
 
-<p>⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we’ll use three here to also align the raw Markdown).</p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title"><a href="https://buerviper.github.io/blog/2022/myth-of-cancel-culture/">The Myth of Cancel Culture in Chemistry (and Science)</a></span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://buerviper.github.io">Mathias Micheel</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[I actually hoped I'd never have to criticize a Nachrichten aus der Chemie article again, but here we are again.]]></summary></entry><entry><title type="html">Antrag gegen geschlechtergerechte Sprache auf der kommenden GDCh-Mitgliederversammlung</title><link href="https://buerviper.github.io/blog/2021/vorlage-gdch-mitgliederbefragung/" rel="alternate" type="text/html" title="Antrag gegen geschlechtergerechte Sprache auf der kommenden GDCh-Mitgliederversammlung" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://buerviper.github.io/blog/2021/vorlage-gdch-mitgliederbefragung</id><content type="html" xml:base="https://buerviper.github.io/blog/2021/vorlage-gdch-mitgliederbefragung/"><![CDATA[<p>Neun Männer gegen den Rest der Welt.</p>
 
-<p>⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)</p>
+<p>Seit Anfang des Jahres nutzt die GDCh in vielen ihrer Veröffentlichungen geschlechtergerechte Sprache. Dies ist bisher nur eine Bitte an Autor*innen, eine Pflicht oder einheitliche Regelung gibt es bislang nicht. Trotzdem ist dies natürlich ein wichtiger Schritt insbesondere in unserem Fach, in dem nicht-männliche Wissenschaftler*innen noch immer eine Minderheit darstellen.</p>
 
-<ul>
-  <li>Unordered list can use asterisks</li>
-  <li>Or minuses</li>
-  <li>Or pluses</li>
-</ul>
+<p>Auf der kommenden GDCh-Mitgliederversammlung am 3. September 2021 wird nun über den Antrag mit dem wenig auffälligen Titel <em>Weiterverwendung der amtlichen Regelung der deutschen Rechtschreibung</em> abgestimmt. Dahinter verbirgt sich jedoch die Aufforderung, die GDCh solle keine geschlechtergerechte Sprache z. B. in Form des Asterisk (“Gendersternchen), Binnen-I oder Unterstrichs mehr nutzen. Der Antrag ist <a href="https://www.gdch.de/fileadmin/downloads/Service_und_Informationen/MyGDCh/PDF/Antrag_Mitgliederversammlung.pdf">hier</a> einsehbar.</p>
 
-<p><a href="https://www.google.com">I’m an inline-style link</a></p>
-
-<p><a href="https://www.google.com" title="Google's Homepage">I’m an inline-style link with title</a></p>
-
-<p><a href="https://www.mozilla.org">I’m a reference-style link</a></p>
-
-<p><a href="../blob/master/LICENSE">I’m a relative reference to a repository file</a></p>
-
-<p><a href="http://slashdot.org">You can use numbers for reference-style link definitions</a></p>
-
-<p>Or leave it empty and use the <a href="http://www.reddit.com">link text itself</a>.</p>
-
-<p>URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <a href="http://www.example.com">http://www.example.com</a> and sometimes
-example.com (but not on Github, for example).</p>
-
-<p>Some text to show that the reference links can follow later.</p>
-
-<p>Here’s our logo (hover to see the title text):</p>
-
-<p>Inline-style:
-<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1" /></p>
-
-<p>Reference-style:
-<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 2" /></p>
-
-<p>Inline <code class="language-plaintext highlighter-rouge">code</code> has <code class="language-plaintext highlighter-rouge">back-ticks around</code> it.</p>
-
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
-<span class="nf">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
-</code></pre></div></div>
-
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">s</span> <span class="o">=</span> <span class="s">"Python syntax highlighting"</span>
-<span class="k">print</span> <span class="n">s</span>
-</code></pre></div></div>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>No language indicated, so no syntax highlighting.
-But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
-</code></pre></div></div>
-
-<p>Colons can be used to align columns.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Tables</th>
-      <th style="text-align: center">Are</th>
-      <th style="text-align: right">Cool</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>col 3 is</td>
-      <td style="text-align: center">right-aligned</td>
-      <td style="text-align: right">$1600</td>
-    </tr>
-    <tr>
-      <td>col 2 is</td>
-      <td style="text-align: center">centered</td>
-      <td style="text-align: right">$12</td>
-    </tr>
-    <tr>
-      <td>zebra stripes</td>
-      <td style="text-align: center">are neat</td>
-      <td style="text-align: right">$1</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don’t need to make the
-raw Markdown line up prettily. You can also use inline Markdown.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Markdown</th>
-      <th>Less</th>
-      <th>Pretty</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><em>Still</em></td>
-      <td><code class="language-plaintext highlighter-rouge">renders</code></td>
-      <td><strong>nicely</strong></td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-    </tr>
-  </tbody>
-</table>
+<p>Ich selbst wurde erst durch eine direkte Nachricht von <a href="https://jageo.github.io/">Dr. Janine George</a> (BAM) auf den Antrag aufmerksam gemacht und in Anbetracht der Wichtigkeit des Antrags habe ich das Gefühl, dass bisher nur wenige GDCh-Mitglieder von ihm wissen. Eine Möglichkeit vor allem junge Chemiker*innen anzusprechen ist, eine e-Mail an sein<a href="https://jcf.io"> lokales JCF</a> oder den Fachschaftsrat seiner ehemaligen Uni anzuschreiben und darauf aufmerksam zu machen. Ich habe dafür eine kleine Vorlage geschrieben, die gerne verbreitet und genutzt werden darf:</p>
 
 <blockquote>
-  <p>Blockquotes are very handy in email to emulate reply text.
-This line is part of the same quote.</p>
+  <p>Lieber Fachschaftsrat [Fach/Uni]/Liebes JCF [Ort],</p>
+
+  <p>ich schreibe euch als ehemalige*r Chemiestudent*in der [Uni]/lokales GDCh-Mitglied. Wie ihr vielleicht wisst benutzt die GDCh seit Beginn des  Jahres in vielen ihrer Veröffentlichungen (Homepage, <em>Nachrichten aus der Chemie</em>, Pressemitteilungen) geschlechtergerechte Sprache z. B. in Form des Asterisk (“Gender-Sternchen”). Diese Vorgabe ist dabei eine Bitte an Autor*innen, eine Pflicht besteht derzeit nicht.</p>
+
+  <p>Zur  kommenden Mitgliederversammlung der GDCh am 3. September 2021 wurde der Antrag “Weiterverwendung der amtlichen Regelung der deutschen Rechtschreibung” eingereicht. Im Antrag wird die GDCh aufgefordert, den Gebrauch geschlechtergerechter Sprache einzustellen, bis eine Mitgliederbefragung zum Thema vorliegt.</p>
+
+  <p>Geschlechtergerechte Sprache stellt eine niederschwellige Möglichkeit dar, Menschen unabhängig ihres Geschlechts aktiv einzubeziehen bzw. zumindest nicht auszugrenzen. Leider haben bisher nur wenige GDCh-Mitglieder von dieser Abstimmung erfahren.</p>
+
+  <p>Ich würde mich freuen, wenn ihr in eurem Mailverteiler oder auf euren Social-Media-Kanälen darauf aufmerksam machen könntet. Insbesondere ist es wichtig, dass sich Mitglieder bis zum 31. August online für die Mitgliederversammlung registrieren.</p>
+
+  <p>Mehr Informationen findet ihr in dieser Mitteilung der GDCh: https://www.gdch.de/service-information/nachricht/article/gdch-mitgliederversammlung-mit-antrag-aus-der-mitgliedschaft.html</p>
+
+  <p>Mit freundlichen Grüßen</p>
+
+  <p>[Name]</p>
 </blockquote>
 
-<p>Quote break.</p>
+<p>Ich hoffe auf eine rege Beteiligung und dass die GDCh-Mitglieder verstehen, dass es hier um die progressive und inklusive Ausrichtung der Organisation geht.</p>
+
+<p>Ein kurzer persönlicher Nachtrag: es ist bezeichnend, dass der Antrag von neun Männern ohne Beteiligung einer einzigen Frau eingereicht wurde. Einige der Antragssteller haben sich bereits in Leserbriefen an die <em>Blauen Blätter</em> (Thomas Rödel 03/2021, Hubertus Brunn &amp; Achim Günther 04/2021, Heinz Hug, Alexander Börger &amp; Cai von Rumohr 05/2021) echauffiert, dass Männer durch geschlechtergerechte Sprache unsichtbar gemacht würden oder sie beim lesen ebenjener in “Schnappatmung” verfallen. Das mündete in grandiosen Sprüchen wie</p>
 
 <blockquote>
-  <p>This is a very long line that will still be quoted properly when it wraps. Oh boy let’s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote.</p>
+  <p>Stets war es so, dass die Gesellschaft die Sprache verändert hat und nicht die Sprache die Gesellschaft, so sehr sich interessierte Beteiligte auch bemüht haben. (H. Brunn, Nachr. Chem. 2021, 69(4), 86)</p>
 </blockquote>
 
-<p>Here’s a line for us to start with.</p>
+<p>… was angesichts der Tatsache, dass die <em>Gesellschaft</em> deutscher Chemiker hier eine Bitte an Autor*innen formulierte, sehr witzig wirkt. Das hat mir bereits <a href="https://twitter.com/buerviper/status/1401795141732638720">schon einmal eine Antwort in Form eines Leserbriefes abgerungen</a> und irgendwie hatte ich gehofft, dass die Sache damit geklärt gewesen sei. Aber vielleicht ist das ja auch nur noch das letzte Aufbäumen der alten, weißen, männlichen Garde.</p>
 
-<p>This line is separated from the one above by two newlines, so it will be a <em>separate paragraph</em>.</p>
-
-<p>This line is also a separate paragraph, but…
-This line is only separated by a single newline, so it’s a separate line in the <em>same paragraph</em>.</p>]]></content><author><name>Albert Einstein</name></author><summary type="html"><![CDATA[an example of a distill-style blog post and main elements]]></summary></entry><entry><title type="html">a post with github metadata</title><link href="https://alshedivat.github.io/al-folio/blog/2020/github-metadata/" rel="alternate" type="text/html" title="a post with github metadata" /><published>2020-09-28T21:01:00+00:00</published><updated>2020-09-28T21:01:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2020/github-metadata</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2020/github-metadata/"><![CDATA[<p>A sample blog page that demonstrates the accessing of github meta data.</p>
-
-<h2 id="what-does-github-metadata-do">What does Github-MetaData do?</h2>
-<ul>
-  <li>Propagates the site.github namespace with repository metadata</li>
-  <li>Setting site variables :
-    <ul>
-      <li>site.title</li>
-      <li>site.description</li>
-      <li>site.url</li>
-      <li>site.baseurl</li>
-    </ul>
-  </li>
-  <li>Accessing the metadata - duh.</li>
-  <li>Generating edittable links.</li>
-</ul>
-
-<h2 id="additional-reading">Additional Reading</h2>
-<ul>
-  <li>If you’re recieving incorrect/missing data, you may need to perform a Github API<a href="https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md"> authentication</a>.</li>
-  <li>Go through this <a href="https://jekyll.github.io/github-metadata/">README</a> for more details on the topic.</li>
-  <li><a href="https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md">This page</a> highlights all the feilds you can access with github-metadata.
-<br /></li>
-</ul>
-
-<h2 id="example-metadata">Example MetaData</h2>
-<ul>
-  <li>Host Name :</li>
-  <li>URL :</li>
-  <li>BaseURL :</li>
-  <li>Archived :</li>
-  <li>Contributors :</li>
-</ul>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[a quick run down on accessing github metadata.]]></summary></entry><entry><title type="html">a post with twitter</title><link href="https://alshedivat.github.io/al-folio/blog/2020/twitter/" rel="alternate" type="text/html" title="a post with twitter" /><published>2020-09-28T15:12:00+00:00</published><updated>2020-09-28T15:12:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2020/twitter</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2020/twitter/"><![CDATA[<p>A sample blog page that demonstrates the inclusion of Tweets/Timelines/etc.</p>
-
-<h1 id="tweet">Tweet</h1>
-<p>An example of displaying a tweet:</p>
-<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="sv" dir="ltr">jekyll-twitter-plugin (1.0.0): A Liquid tag plugin for Jekyll that renders Tweets from Twitter API <a href="http://t.co/m4EIQPM9h4">http://t.co/m4EIQPM9h4</a></p>&mdash; RubyGems (@rubygems) <a href="https://twitter.com/rubygems/status/518821243320287232?ref_src=twsrc%5Etfw">October 5, 2014</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<h1 id="timeline">Timeline</h1>
-<p>An example of pulling from a timeline:</p>
-<div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-tweet-limit="3" href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">Tweets by jekyllrb</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<h1 id="additional-details">Additional Details</h1>
-<p>For more details on using the plugin visit: <a href="https://github.com/rob-murray/jekyll-twitter-plugin">jekyll-twitter-plugin</a></p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><category term="formatting" /><summary type="html"><![CDATA[an example of a blog post with twitter]]></summary></entry><entry><title type="html">a post with disqus comments</title><link href="https://alshedivat.github.io/al-folio/blog/2015/disqus-comments/" rel="alternate" type="text/html" title="a post with disqus comments" /><published>2015-10-20T15:59:00+00:00</published><updated>2015-10-20T15:59:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2015/disqus-comments</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2015/disqus-comments/"><![CDATA[<p>This post shows how to add DISQUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with disqus comments]]></summary></entry><entry><title type="html">a post with math</title><link href="https://alshedivat.github.io/al-folio/blog/2015/math/" rel="alternate" type="text/html" title="a post with math" /><published>2015-10-20T15:12:00+00:00</published><updated>2015-10-20T15:12:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2015/math</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2015/math/"><![CDATA[<p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine. You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>. If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
-
-<p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge">$$</code> and place it as a separate paragraph. Here is an example:</p>
-
-\[\sum_{k=1}^\infty |\langle x, e_k \rangle|^2 \leq \|x\|^2\]
-
-<p>You can also use <code class="language-plaintext highlighter-rouge">\begin{equation}...\end{equation}</code> instead of <code class="language-plaintext highlighter-rouge">$$</code> for display mode math.
-MathJax will automatically number equations:</p>
-
-<p>\begin{equation}
-\label{eq:cauchy-schwarz}
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\end{equation}</p>
-
-<p>and by adding <code class="language-plaintext highlighter-rouge">\label{...}</code> inside the equation environment, we can now refer to the equation using <code class="language-plaintext highlighter-rouge">\eqref</code>.</p>
-
-<p>Note that MathJax 3 is <a href="https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html">a major re-write of MathJax</a> that brought a significant improvement to the loading and rendering speed, which is now <a href="http://www.intmath.com/cg5/katex-mathjax-comparison.php">on par with KaTeX</a>.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="math" /><summary type="html"><![CDATA[an example of a blog post with some math]]></summary></entry><entry><title type="html">a post with code</title><link href="https://alshedivat.github.io/al-folio/blog/2015/code/" rel="alternate" type="text/html" title="a post with code" /><published>2015-07-15T15:09:00+00:00</published><updated>2015-07-15T15:09:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2015/code</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2015/code/"><![CDATA[<p>This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.
-It supports more than 100 languages.
-This example is in C++.
-All you have to do is wrap your code in markdown code tags:</p>
-
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">c++
-</span><span class="n">code</span> <span class="n">code</span> <span class="n">code</span>
-<span class="p">```</span>
-</code></pre></div></div>
-
-<div class="language-c++ highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="k">const</span> <span class="err">\</span><span class="o">*</span><span class="n">argv</span><span class="p">[])</span>
-<span class="p">{</span>
-    <span class="n">string</span> <span class="n">myString</span><span class="p">;</span>
-
-    <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"input a string: "</span><span class="p">;</span>
-    <span class="n">getline</span><span class="p">(</span><span class="n">cin</span><span class="p">,</span> <span class="n">myString</span><span class="p">);</span>
-    <span class="kt">int</span> <span class="n">length</span> <span class="o">=</span> <span class="n">myString</span><span class="p">.</span><span class="n">length</span><span class="p">();</span>
-
-    <span class="kt">char</span> <span class="n">charArray</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">char</span> <span class="o">*</span> <span class="p">[</span><span class="n">length</span><span class="p">];</span>
-
-    <span class="n">charArray</span> <span class="o">=</span> <span class="n">myString</span><span class="p">;</span>
-    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">length</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">){</span>
-        <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">charArray</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;&lt;</span> <span class="s">" "</span><span class="p">;</span>
-    <span class="p">}</span>
-
-    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<p>By default, it does not display line numbers. If you want to display line numbers for every code block, you can set <code class="language-plaintext highlighter-rouge">kramdown.syntax_highlighter_opts.block.line_numbers</code> to true in your <code class="language-plaintext highlighter-rouge">_config.yml</code> file.</p>
-
-<p>If you want to display line numbers for a specific code block, all you have to do is wrap your code in a liquid tag:</p>
-
-<p>{% highlight c++ linenos %}  <br /> code code code <br /> {% endhighlight %}</p>
-
-<p>The keyword <code class="language-plaintext highlighter-rouge">linenos</code> triggers display of line numbers.
-Produces something like this:</p>
-
-<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-</pre></td><td class="code"><pre><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="k">const</span> <span class="err">\</span><span class="o">*</span><span class="n">argv</span><span class="p">[])</span>
-<span class="p">{</span>
-    <span class="n">string</span> <span class="n">myString</span><span class="p">;</span>
-
-    <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"input a string: "</span><span class="p">;</span>
-    <span class="n">getline</span><span class="p">(</span><span class="n">cin</span><span class="p">,</span> <span class="n">myString</span><span class="p">);</span>
-    <span class="kt">int</span> <span class="n">length</span> <span class="o">=</span> <span class="n">myString</span><span class="p">.</span><span class="n">length</span><span class="p">();</span>
-
-    <span class="kt">char</span> <span class="n">charArray</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">char</span> <span class="o">*</span> <span class="p">[</span><span class="n">length</span><span class="p">];</span>
-
-    <span class="n">charArray</span> <span class="o">=</span> <span class="n">myString</span><span class="p">;</span>
-    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">length</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">){</span>
-        <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">charArray</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;&lt;</span> <span class="s">" "</span><span class="p">;</span>
-    <span class="p">}</span>
-
-    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<span class="p">}</span>
-</pre></td></tr></tbody></table></code></pre></figure>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="code" /><summary type="html"><![CDATA[an example of a blog post with some code]]></summary></entry></feed>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title"><a href="https://buerviper.github.io/blog/2021/vorlage-gdch-mitgliederbefragung/">Antrag gegen geschlechtergerechte Sprache auf der kommenden GDCh-Mitgliederversammlung</a></span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://buerviper.github.io">Mathias Micheel</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Neun Männer gegen den Rest der Welt.]]></summary></entry></feed>

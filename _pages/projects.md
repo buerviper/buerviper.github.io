@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Until I find time to actually talk about my projects in more detail, enjoy some amazing lorem ipsums here!
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

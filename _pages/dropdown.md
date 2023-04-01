@@ -4,8 +4,10 @@ title: submenus
 nav: true
 nav_order: 6
 dropdown: true
-children:
+children: 
+    - title: publications
+      permalink: /publications/
     - title: divider
-    - title: legal notice
-      permalink: /legalnote/
+    - title: projects
+      permalink: /projects/
 ---

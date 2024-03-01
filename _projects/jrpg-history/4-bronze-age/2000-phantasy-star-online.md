@@ -1,0 +1,14 @@
+<!-- wp:paragraph -->
+<p>Was man aus heutiger Sicht kaum noch beurteilen kann ist die Waghalsigkeit eines Konsolen-MMORPGs im Jahr 2000. Das Internet war immer noch ziemlich neu und begann sich gerade auf dem Medium Computer durchzusetzen, internetfähige Konsolen gab es bis zum Erscheinen der Dreamcast jedoch gar nicht. Generell hatten (Stand 2001) weniger als 30 % aller Japaner Zugang zum Internet,  wobei sich die Zahl rapide erhöhte und bspw. von 2000 auf 2001 verdoppelte. <span id="7f7e0fa8-5cf8-479d-9f6a-6dab290376cc" data-items="[&quot;1723419789&quot;]" class="abt-citation" contenteditable="false">​[1]​</span>Auch war das ganze Unterfangen ziemlich teuer, da es noch keine (oder sehr wenige Angebote für) Flatrates gab und die Internetnutzung zeitgenau abgerechnet wurde. In Deutschland kostete die Stunde ca. 3 DM (inflationsbereinigt ca. 2 € heute) - bei einem Spiel, bei dem man zwischen 50 und 100 Stunden investieren konnte, in der Summe ein Betrag, der die Anschaffungskosten von ca. 80 Mark um mehr als das Doppelte übersteigen konnte. Sega </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Phantasy Star Online war das erste MMORPG, das auf einer japanischen Offline-Rollenspielreihe basierte. 2002 legte Square mit Final Fanatsy XI nach, und adelte das Spiel durch den Nummernzusatz von einem Spin-Off zu einem vollwertigen Hauptteil. Das Spiel war im Nachhinein ein riesiger Erfolg und wahrscheinlich einflussreicher als Segas MMORPG. Weitere Beispiele sind <em>Shin Megami Tensei: Imagine</em> (Atlus, 2007), <em>Final Fantasy XIV</em> (Square Enix, 2010), das erst nach einem kompletten Relaunch 2013 wirklich erfolgreich wurde, und <em>Dragon Quest XI</em> (Square Enix, 2017). Ein interessantes Spiel ist <em>Wizardry Online</em> (Sony Online Entertainment, 2011). Die ursprünglich im Westen konzipierte Serie bekam auch einen MMORPG-Ableger, der jedoch in Japan entwickelt wurde, und erst mit etwas Abstand in den Westen kam. Insgesamt sind MMORPGs, die nicht auf bekannten Reihen basieren, sehr selten und wenig erfolgreich in Japan. Mit der graduellen Verschiebung des Online-Spielemarktes von MMORPGs hin zu MOBAs und Battle-Royal-Klonen wird sich das wahrscheinlich auch wenig ändern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:abt/bibliography -->
+<section aria-label="Literaturliste" class="wp-block-abt-bibliography abt-bibliography" role="region"><ol class="abt-bibliography__body" data-maxoffset="3" data-linespacing="1" data-second-field-align="flush"><li id="1723419789">  <div class="csl-entry">
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">R. Delamar, “Competition and the Development of the Internet in Japan,” <i>First Monday</i>, Jul. 2002, doi: <a href="https://doi.org/10.5210/fm.v7i7.968">10.5210/fm.v7i7.968</a>.</div>
+  </div>
+</li></ol></section>
+<!-- /wp:abt/bibliography -->

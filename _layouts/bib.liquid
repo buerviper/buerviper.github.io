@@ -3,31 +3,28 @@
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-3 abbr">
-      {%- if entry.abbr -%}
-        {%- if site.data.venues[entry.abbr] -%}
-          {% assign venue_style = null %}
-          {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
-          {%- endif -%}
-          <abbr
-            class="badge rounded w-100"
-            {% if venue_style %}
-              {{ venue_style }}
-            {% endif -%}
-          >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a>
-            {% else %}
-              <div>{{- entry.abbr -}}</div>
-            {% endif %}
-          </abbr>
-        {% endif %}
-      {% elsif entry.type == 'incollection' %}
-        <abbr class="badge rounded w-100" style="background-color:#ee7733;">Book Chapter</abbr>
-      {% elsif entry.type == 'phdthesis' %}
-        <abbr class="badge rounded w-100" style="background-color:#009988;">Thesis</abbr>
-      {% else %}
-        <abbr class="badge rounded w-100">{{ entry.journal }}</abbr>
+    {% if entry.type == 'incollection' %}
+      <abbr class="badge rounded w-100" style="background-color:#ee7733;">Book Chapter</abbr>
+    {% elsif entry.type == 'phdthesis' %}
+      <abbr class="badge rounded w-100" style="background-color:#009988;">Thesis</abbr>
+    {% else %}
+      {%- if site.data.venues[entry.abbr] -%}
+        {% assign venue_style = null %}
+        {% if site.data.venues[entry.abbr].color != blank %}
+          {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+        {%- endif -%}
+        <abbr
+          class="badge rounded w-100"
+          {% if venue_style %}
+            {{ venue_style }}
+          {% endif -%}
+        >
+          {% if site.data.venues[entry.abbr].url %}
+            <a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a>
+          {% else %}
+            <div>{{- entry.journal -}}</div>
+          {% endif %}
+        </abbr>
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}

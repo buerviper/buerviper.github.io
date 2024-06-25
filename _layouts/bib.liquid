@@ -3,9 +3,9 @@
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
-      {% if entry.type == 'incollection' %}
+      {%- if entry.type == 'incollection' -%}
         <abbr class="badge rounded w-100" style="background-color:#ee7733;">Book Chapter</abbr>
-      {% elsif entry.type == 'phdthesis' %}
+      {%- elsif entry.type == 'phdthesis' -%}
         <abbr class="badge rounded w-100" style="background-color:#009988;">Thesis</abbr>
       {%- elsif entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
@@ -26,8 +26,10 @@
             {% endif %}
           </abbr>
         {% else %}
-          <abbr class="badge rounded w-100">{{ entry.journal }}</abbr>
+          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
+      {% else %}
+        <abbr class="badge rounded w-100">{{ entry.journal }}</abbr>
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}

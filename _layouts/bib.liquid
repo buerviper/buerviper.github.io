@@ -7,8 +7,8 @@
         <abbr class="badge rounded w-100" style="background-color:#ee7733;">Book Chapter</abbr>
       {%- elsif entry.type == 'phdthesis' -%}
         <abbr class="badge rounded w-100" style="background-color:#009988;">Thesis</abbr>
-      {%- elsif entry.journal -%}
-        {%- if site.data.venues[entry.abbr] -%}
+      {%- elsif entry.type == 'article' -%}
+        {%- if site.data.venues[entry.journal] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.journal].color != blank %}
             {% assign venue_style = site.data.venues[entry.journal].color | prepend: 'style="background-color:' | append: '"' %}
@@ -20,16 +20,16 @@
             {% endif -%}
           >
             {% if site.data.venues[entry.journal].url %}
-              <a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a>
+              <a href="{{site.data.venues[entry.journal].url}}">{{ entry.abbr }}</a>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              <div>{{site.data.venues[entry.journal].abbr}}</div>
             {% endif %}
           </abbr>
-        {% else %}
+        {%- elsif entry.abbr -%}
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
+        {%- else -%}
+          <abbr class="badge rounded w-100">{{ entry.journal }}</abbr>
         {% endif %}
-      {% else %}
-        <abbr class="badge rounded w-100">{{ entry.journal }}</abbr>
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}

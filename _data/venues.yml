@@ -1,14 +1,14 @@
 "ChemRxiv":
-  url: "https://chemrxiv.org"
+  url: https://chemrxiv.org
   color: "#555555"
   abbr: "ChemRxiv"
 
 "ChemPhotoChem":
-  url: "https://chemistry-europe.onlinelibrary.wiley.com/journal/23670932"
+  url: https://chemistry-europe.onlinelibrary.wiley.com/journal/23670932
   abbr: "ChemPhotoChem"
 
 "ChemCatChem":
-  url: "https://chemistry-europe.onlinelibrary.wiley.com/journal/18673899"
+  url: https://chemistry-europe.onlinelibrary.wiley.com/journal/18673899
   abbr: "ChemCatChem"
 
 "Catalysts":

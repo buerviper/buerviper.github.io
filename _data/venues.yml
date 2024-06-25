@@ -16,14 +16,14 @@
   abbr: "Catalysts"
 
 "The Journal of Physical Chemistry Letters":
-  url: https://www.mdpi.com/journal/catalysts
+  url: https://pubs.acs.org/journal/jpclcd
   abbr: "J. Phys. Chem. Lett."
 
 "Nachrichten aus der Chemie":
   url: https://onlinelibrary.wiley.com/journal/18680054
   abbr: "NadC"
   color: "#555555"
-  
+
 "Macromolecular Chemistry and Physics":
   url: https://onlinelibrary.wiley.com/journal/15213935
   abbr: "Macromol. Chem. Phys."
@@ -65,5 +65,5 @@
   abbr: "ACS Appl. Mater. Interfaces"
 
 "Photochemical & Photobiological Sciences":
-  url: https://pubs.acs.org/journal/mamobx
+  url: Photochemical & Photobiological Sciences
   abbr: "Photochem. Photobiol. Sci."

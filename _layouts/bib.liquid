@@ -21,13 +21,13 @@
               <div>{{- entry.abbr -}}</div>
             {% endif %}
           </abbr>
-        {% elsif entry.type == 'incollection' %}
-          <abbr class="badge rounded w-100" style="background-color:#ee7733;">Book Chapter</abbr>
-        {% elsif entry.type == 'phdthesis' %}
-          <abbr class="badge rounded w-100" style="background-color:#009988;">Thesis</abbr>
-        {% else %}
-          <abbr class="badge rounded w-100">{{ entry.journal }}</abbr>
         {% endif %}
+      {% elsif entry.type == 'incollection' %}
+        <abbr class="badge rounded w-100" style="background-color:#ee7733;">Book Chapter</abbr>
+      {% elsif entry.type == 'phdthesis' %}
+        <abbr class="badge rounded w-100" style="background-color:#009988;">Thesis</abbr>
+      {% else %}
+        <abbr class="badge rounded w-100">{{ entry.journal }}</abbr>
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A good thing's worth waiting for - new paper in JCP!
-date: 2023-04-17 12:00:00
+date: 2023-04-17 12:00:00+01:00
 inline: false
 giscus_comments: true
 tags: photocatalysis nanorods semiconductor spectroscopy

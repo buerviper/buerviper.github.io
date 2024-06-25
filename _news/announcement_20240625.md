@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New paper in ACS Appl. Nano Mater. on polydopamine-coated nanorods
-date: 2024-06-25 09:00:00+0100
+date: 2024-06-25 09:00:00+01:00
 inline: false
 giscus_comments: true
 tags: photocatalysis nanorods semiconductor spectroscopy

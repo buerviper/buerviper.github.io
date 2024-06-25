@@ -20,7 +20,7 @@
             {% endif -%}
           >
             {% if site.data.venues[entry.journal].url %}
-              <a href="{{site.data.venues[entry.journal].url}}">{{ entry.abbr }}</a>
+              <a href="{{site.data.venues[entry.journal].url}}">{{site.data.venues[entry.journal].abbr}}</a>
             {% else %}
               <div>{{site.data.venues[entry.journal].abbr}}</div>
             {% endif %}

@@ -1,9 +1,69 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ChemRxiv":
+  url: https://chemrxiv.org
+  color: "#555555"
+  abbr: "ChemRxiv"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ChemPhotoChem":
+  url: https://chemistry-europe.onlinelibrary.wiley.com/journal/23670932
+  abbr: "ChemPhotoChem"
 
-"Vision":
-  color: "#009f36"
+"ChemCatChem":
+  url: https://chemistry-europe.onlinelibrary.wiley.com/journal/18673899
+  abbr: "ChemCatChem"
+
+"Catalysts":
+  url: https://www.mdpi.com/journal/catalysts
+  abbr: "Catalysts"
+
+"The Journal of Physical Chemistry Letters":
+  url: https://pubs.acs.org/journal/jpclcd
+  abbr: "J. Phys. Chem. Lett."
+
+"Nachrichten aus der Chemie":
+  url: https://onlinelibrary.wiley.com/journal/18680054
+  abbr: "NadC"
+  color: "#555555"
+
+"Macromolecular Chemistry and Physics":
+  url: https://onlinelibrary.wiley.com/journal/15213935
+  abbr: "Macromol. Chem. Phys."
+
+"RSC Advances":
+  url: https://www.rsc.org/journals-books-databases/about-journals/rsc-advances/
+  abbr: "RSC Adv."
+
+"Chemistry – A European Journa":
+  url: https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765
+  abbr: "Chem. Eur. J."
+
+"Beilstein Journal of Organic Chemistry":
+  url: https://www.beilstein-journals.org/bjoc/home
+  abbr: "Beilstein J. Org. Chem."
+
+"Macromolecules":
+  url: https://pubs.acs.org/journal/mamobx
+  abbr: "Macromolecules"
+
+"ACS Applied Nano Materials":
+  url: https://pubs.acs.org/journal/aanmf6
+  abbr: "ACS Appl. Nano Mater."
+
+"Nanomaterials":
+  url: https://www.mdpi.com/journal/nanomaterials
+  abbr: "Nanomaterials"
+
+"Advanced Materials Interfaces":
+  url: https://onlinelibrary.wiley.com/journal/21967350
+  abbr: "Adv. Mater. Interfaces"
+
+"The Journal of Chemical Physics":
+  url: https://pubs.aip.org/aip/jcp
+  abbr: "J. Chem. Phys."
+
+"ACS Applied Materials & Interfaces":
+  url: https://pubs.acs.org/journal/aamick
+  abbr: "ACS Appl. Mater. Interfaces"
+
+"Photochemical & Photobiological Sciences":
+  url: Photochemical & Photobiological Sciences
+  abbr: "Photochem. Photobiol. Sci."

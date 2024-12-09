@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: micheel_2023.jpg
+  image_circular: true # crops the image to make it circular
+  address:
 
 news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there! I'm Dr. Mathias Micheel, a Physical Chemist from Germany. On this website, you may find more about my research and myself. From time to time, I might even drop random thoughts here - just like it was my personal blog in 2004!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+{% quote ciamician_photochemistry_1912 --file photochemistry %}
+And if in a distant future the supply of coal becomes completely exhausted, civilization will not be checked by that, for life and civilization will continue as long as the sun shines!
+{% endquote %}
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+More than 100 years ago, Ciamician expressed his vision of a civilization which covers its energy needs not on the basis of fossil fuels, but by direct utilization of solar energy. Instead of smokestacks from coal and oil factories, the chemical industry of the future would use glass tubes to drive their reactions.
+
+As a child from the Ruhr area, with its long history in coal mining and steel refining, I am every much committed to realizing his dream, which remains unfulfilled to date, and try to convert solar energy into so-called *solar fuels*.

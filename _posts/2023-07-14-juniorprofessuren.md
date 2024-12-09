@@ -2,14 +2,13 @@
 layout: post
 title: "Bedingungen für Juniorprofessuren nach Bundesland"
 date: 2023-07-14
-description: "Eine Übersicht über Einstellungsvorraussetzungen für Juniorprofessuren."
-fediverse: "buerviper@physchem.science"
+description: "Eine Übersicht über Einstellungsvoraussetzungen für Juniorprofessuren."
 giscus_comments: true
 tags: IchBinHanna Juniorprofessur academia
 ---
-Das schön Unübersichtliche am föderalen System in Deutschland ist, dass man kaum die Chance hat, mal einen Überblick über einzelne Sachverhalte zu kriegen. So auch bei den Einstellungsvorraussetzungen für Juniorprofessuren, die von Bundesland zu Bundesland anders sind. Leider helfen einem viele Ausschreibungen nur bedingt weiter, und die Vorraussetzungen werden nicht noch einmal explizit genannt. Um das ständige Googeln dabei zu verhindern, habe ich diese Übersicht erstellt.
+Das schön Unübersichtliche am föderalen System in Deutschland ist, dass man kaum die Chance hat, mal einen Überblick über einzelne Sachverhalte zu kriegen. So auch bei den Einstellungsvoraussetzungen für Juniorprofessuren, die von Bundesland zu Bundesland anders sind. Leider helfen einem viele Ausschreibungen nur bedingt weiter, und die Voraussetzungen werden nicht noch einmal explizit genannt. Um das ständige Googeln dabei zu verhindern, habe ich diese Übersicht erstellt.
 
-Ich gehe hier vor allem auf zeitliche Vorraussetzungen und Limitierungen ein. Allgemeine Vorrussetzungen wie
+Ich gehe hier vor allem auf zeitliche Voraussetzungen und Limitierungen ein. Allgemeine Voraussetzungen wie
 
 1.    ein abgeschlossenes Hochschulstudium,
 2.    pädagogische Eignung,

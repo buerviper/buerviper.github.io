@@ -8,7 +8,7 @@ tags: python mastodon bot coding
 authors:
   - name: Mathias Micheel
 toc:
-    beginning: true
+  sidebar: left
 featured: true
 ---
 As some of you might know, I am a big Suikoden fan. What's Suikoden you ask? A great JRPG series created from Konami back in 1995 for the first PlayStation. Each game stars 108 (more or less) playable characters and the story revolves around political intrigues and personal conflicts. Overall, it's a great series which hasn't seen a new entry since 2012, but will see the first two games remastered for current consoles soon.

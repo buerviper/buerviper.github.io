@@ -5,6 +5,8 @@ date: 2023-03-28
 description: "This history of the JRPG genre unfortunately falls short for many reasons."
 giscus_comments: true
 tags: JRPG review
+toc:
+  sidebar: left
 ---
 2023, what a great time to be alive for JRPG fans! Not only is it possible to play all the titles from the good old time, either legally through remasters or remakes or via emulation, but we also get tons of new titles, from adventurous indie developers paying homage to big studios like who experiment with old formulas for a breath of fresh air or simply deliver nothing but pure oldschool nostalgia in its finest pixel form.
 

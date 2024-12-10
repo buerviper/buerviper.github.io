@@ -5,10 +5,7 @@ description: I actually hoped I'd never have to criticize a Nachrichten aus der 
 date: 2022-02-02
 giscus_comments: true
 toc:
-  - name: Breaking things down
-  - name: Who's being cancelled anyway?
-  - name: Where to go from here
-  - name: References
+  sidebar: left
 ---
 I actually hoped I'd never have to criticize a *Nachrichten aus der Chemie* article again, but here we are again.
 

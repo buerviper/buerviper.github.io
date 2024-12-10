@@ -3,7 +3,7 @@ layout: post
 title: "Bedingungen für Juniorprofessuren nach Bundesland"
 date: 2023-07-14
 description: "Eine Übersicht über Einstellungsvorraussetzungen für Juniorprofessuren."
-fediverse:creator: buerviper@physchem.science
+fediverse: "buerviper@physchem.science"
 giscus_comments: true
 tags: IchBinHanna Juniorprofessur academia
 ---

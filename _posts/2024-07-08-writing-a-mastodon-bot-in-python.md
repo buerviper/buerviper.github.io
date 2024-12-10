@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title: "How to write a Mastodon bot that posts random images in Python"
 date: 2024-07-08
 description: "Instructions for dummies from a dummy."
